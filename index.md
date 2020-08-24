@@ -61,8 +61,16 @@ Texturing
 - Flexible bones and small areas (read: floppy ears.) 
 ### Additional Resources
 - Blender retopo
-- General retool
+- https://flippednormals.com/downloads/retopology-in-blender-2-8/
+- https://cgcookie.com/course/introduction-to-retopology
+- General retopo
+- https://flippednormals.com/downloads/how-to-retopologize-a-full-character/
 - Blender rigging
+- https://flippednormals.com/downloads/the-art-of-effective-rigging-in-blender/
+- Zbrush
+- https://gumroad.com/pavlovich#xOIoZ - Zbrush for Ideation - Michael Mavlovich
+- Substance Painter
+- https://flippednormals.com/downloads/introduction-to-substance-painter/
 
 
 
