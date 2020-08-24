@@ -35,3 +35,68 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Assumptions
+- Basic to Intermediate modeling abilities
+- No zbrush or substance painter required, but since I use them, I’ll cover them here
+### Modeling and Topology
+- Default T pose
+- 30 and 70k polys are plenty
+- Scaling
+- Going back and forth between Zbrush and Blender
+- Before continuing, now that modifying your topology after this point will make you re-texture and re-rig your model
+- Testing for watertightness
+- - Select by trait - ctrl + 
+- Redoing it - pose mode, select all, select object, weight paint mode, automatic weight paints
+### Previewing your avatar
+- Unity import
+- Getting the right version
+- Test bones
+- Testing your bones
+- Setting up your camera
+- Testing locally
+- Errors when importing
+- Importing from Blender
+- Importing from FBX
+- “Force T Pose”
+### Moving to the next step:
+- Apply your modifiers
+Texturing
+- Making UVs
+- UVs with substance painter
+- Editing textures in blender
+- - Filling uv islands
+- - Previewing your texture
+- Editing textures externally
+- Exporting textures
+- Substance painter
+- FBX gotchas
+- Shader gotchas
+### Rigging
+- Default rigs
+- Default bones
+- Hips and alignment
+- Figure out - weird standing
+- Extra bones for dynamic bones
+- Rigging and vertex groups
+- Eye rig
+- Clearing vertex groups
+### Shape Keys
+- Shape keys
+- Visimes
+- Additional rigging resources
+- Blend shapes with zbrush
+### Unity: 
+- Bones
+- Testing your muscles
+- Multiple objects will have multiple materials
+- Visimes
+- Eyes
+- Dynamic Bones
+- Materials
+### Issues in isolation
+- Flexible bones and small areas (read: floppy ears.) 
+### Additional Resources
+- Blender retopo
+- General retool
+- Blender rigging
