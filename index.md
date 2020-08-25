@@ -44,6 +44,10 @@ Texturing
 - Rigging and vertex groups
 - Eye rig
 - Clearing vertex groups
+- Working with vertex Groups
+- - In the 'n' menu - select a vertex, deselect it, then bring it back
+- - Mirror modifier
+- - Bug in vertex weights - have to turn it off then back on again
 ### Shape Keys
 - Shape keys
 - Visimes
