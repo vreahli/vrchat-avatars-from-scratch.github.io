@@ -70,7 +70,7 @@ Texturing
 - General retopo
 - https://flippednormals.com/downloads/how-to-retopologize-a-full-character/
 - Blender rigging
-- https://flippednormals.com/downloads/the-art-of-effective-rigging-in-blender/
+- https://www.youtube.com/watch?v=uWuE8Gnhuy4&list=PLZpDYt0cyiusytIPAOTPRzsa4GK6LgY3_&index=11
 - Zbrush
 - https://gumroad.com/pavlovich#xOIoZ - Zbrush for Ideation - Michael Mavlovich
 - Substance Painter
