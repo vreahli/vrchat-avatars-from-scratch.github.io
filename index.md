@@ -48,11 +48,24 @@ Texturing
 - - In the 'n' menu - select a vertex, deselect it, then bring it back
 - - Mirror modifier
 - - Bug in vertex weights - have to turn it off then back on again
+- Weight painting tips
+- - Turn on auto normalize
+- - Symmetry settings
+- - ctrl + left click bone while in weight paint mode to pick a different bone (right now you need to check the tail) - you can move those bones and test themout from here. 
+- - Spend a few minutes on a rough draft, then pose it up, then clean it up
+- - Add a little bit of smoothing - .2 is recommended by royal skies
+- - alt g, alt r, alt s to clear transforms in pose
+- - Transfering weights TODO 
+- Pose libraries, you can use them for testing - turn on the little save button by default
 ### Shape Keys
 - Shape keys
 - Visimes
 - Additional rigging resources
 - Blend shapes with zbrush
+- Updating shape keys
+- - vertex -> propogate to shapes
+- TODO figure out blend from shapes
+- Mirroring shape keys - duplicate shape key, mirror topology
 ### Unity: 
 - Bones
 - Testing your muscles
@@ -76,8 +89,10 @@ Texturing
 - Substance Painter
 - https://flippednormals.com/downloads/introduction-to-substance-painter/
 
-
-
+## Bounce notes (may not apply to dynamic bones)
+- stiffness - affects how frequently the bones bounce. Closer to 0, longer but less bounces, closer to 1 more bounces but shorter
+- dampenining - 0 means loses energy slowly, 1 means loses energy quickly
+- 
 
 ## Welcome to GitHub Pages
 
