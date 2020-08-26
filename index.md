@@ -51,7 +51,8 @@ Texturing
 - Weight painting tips
 - - Turn on auto normalize
 - - Symmetry settings
-- - ctrl + left click bone while in weight paint mode to pick a different bone (right now you need to check the tail) - you can move those bones and test themout from here. 
+- - ctrl + left click bone while in weight paint mode to pick a different bone (right now you need to check the tail) - you can move those bones and test themout from here. You need to have both selected when you're in weight paint mode.
+
 - - Spend a few minutes on a rough draft, then pose it up, then clean it up
 - - Add a little bit of smoothing - .2 is recommended by royal skies
 - - alt g, alt r, alt s to clear transforms in pose
